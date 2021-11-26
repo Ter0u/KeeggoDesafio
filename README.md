@@ -17,11 +17,12 @@ Adicionar um produto no carrinho
 
 Remover produtos do carrinho 
 
-# Oque foi feito até agora? 😮
+# O que foi feito até agora? 😮
 
 Estruturação e distribuição de pastas page, steps, logic, runner e feature
 
 Estrutura maven com selenium
 
 Automação de cenários de teste com features pelo runner
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
